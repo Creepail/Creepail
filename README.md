@@ -1,4 +1,14 @@
-### Hi there 👋
+### _Hello there_ :stuck_out_tongue:
+
+My name is David but you can call me Creepail. :sunglasses:
+
+---
+###Who am i ?
+Im at college student, currently in my second year at [IIM](https://www.iim.fr) the best school ever !
+
+![IIMlogo](/images/Logo_IIM_fd_blanc.png)
+
+---
 
 <!--
 **Creepail/Creepail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
