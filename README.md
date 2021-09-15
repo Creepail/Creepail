@@ -14,6 +14,8 @@ Im at college student, currently in my second year at [IIM](https://www.iim.fr) 
 
 Im also highly passionated about new tech and everything that is creative. I do art in my free time and im currently trying to learn ThreeJS for a school project
 
+oh and im based around Paris ! but as you've been able to read so far, im fluent in both english :gb: and french :fr:
+
 ---
 
 <!--
