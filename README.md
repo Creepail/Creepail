@@ -30,6 +30,15 @@ Im still quite new to the world of coding and have much to learn, so far i've le
 </div>
 
 ---
+<h3 align="center">What i like</h3> 
+
+<div align="center"> 
+
+<iframe src='https://gfycat.com/ifr/FalsePointedAlpinegoat' frameborder='0' scrolling='no' allowfullscreen width='120' height='140'></iframe><p> <a href="https://gfycat.com/falsepointedalpinegoat">via Gfycat</a></p>
+
+</div>
+
+As you've seen from my profile picture, im a big fan of pokémon and video game in general ! My favorite game to play right now being **risk of rain 2.** I also enjoy reading and writting, even if i havn't made any of it public yet
 
 
 
