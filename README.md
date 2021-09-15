@@ -22,12 +22,16 @@ oh and im based around Paris ! but as you've been able to read so far, im fluent
 
 Im still quite new to the world of coding and have much to learn, so far i've learned html,css and a bit of php. My current passion being ThreeJS and it's secret :star:
 
-<div display="flex">
-<img width="100px" src="images/html.png" alt="Material Bread logo">
-<img width="71px" src="images/css.png" alt="Material Bread logo">
-<img width="100" src="images/php.png" alt="Material Bread logo">
-<img width="150" src="images/threejs.png" alt="Material Bread logo">
+<div align="center">
+<img width="50px" src="images/html.png" alt="html">
+<img width="36px" src="images/css.png" alt="css">
+<img width="50" src="images/php.png" alt="php">
+<img width="90" src="images/threejs.png" alt="threejs">
 </div>
+
+---
+
+
 
 
 <!--
