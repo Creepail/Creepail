@@ -14,9 +14,21 @@ Im at college student, currently in my second year at [IIM](https://www.iim.fr) 
 
 Im also highly passionated about new tech and everything that is creative. I do art in my free time and im currently trying to learn ThreeJS for a school project
 
-oh and im based around Paris ! but as you've been able to read so far, im fluent in both english :gb: and french :fr:
+oh and im based around Paris ! but as you've been able to read so far, im fluent in both english and french. :sunglasses:
 
 ---
+
+<h3 align="center">What i've learned so far</h3>
+
+Im still quite new to the world of coding and have much to learn, so far i've learned html,css and a bit of php. My current passion being ThreeJS and it's secret :star:
+
+<div display="flex">
+<img width="100px" src="images/html.png" alt="Material Bread logo">
+<img width="71px" src="images/css.png" alt="Material Bread logo">
+<img width="100" src="images/php.png" alt="Material Bread logo">
+<img width="150" src="images/threejs.png" alt="Material Bread logo">
+</div>
+
 
 <!--
 **Creepail/Creepail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
