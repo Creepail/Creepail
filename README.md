@@ -34,8 +34,13 @@ Im still quite new to the world of coding and have much to learn, so far i've le
 
 
 
-As you've seen from my profile picture, im a big fan of pokémon and video game in general ! My favorite game to play right now being **risk of rain 2.** I also enjoy reading and writting, even if i havn't made any of it public yet
+As you've seen from my profile picture, im a big fan of pokémon and video game in general ! My favorite game to play right now being **risk of rain 2.** I also enjoy reading and writting, even if i haven't made any of it public yet
 
+Anyway, thanks you for checking out my Github but i have sleep to catch up on to, good night.
+
+<div align="center">
+<img  src="https://media.giphy.com/media/HtqFbL7el09oY/giphy.gif?cid=ecf05e47tfmgnzc1oebumi5o3jpc3388bhjj39kyrujbb04p&rid=giphy.gif&ct=g" width="500"  />
+</div>
 
 
 
